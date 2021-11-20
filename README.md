@@ -1,4 +1,16 @@
-### Hi! this is Nico 🧗🐈
+## Hi! this is Nico 🧗🐈
+
+💬 If you have any questions, feedback or just want to chat, please do not hesitate to reach out to me!
+
+## 🔭 I'm currently working on
+
+- Data visualization and dashboarding
+
+## 🌱 I'm currently learning
+
+- MongoDB
+- R
+
 
 <div>
   <a href="https://github.com/NicoMyshkin">
@@ -18,7 +30,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql
  
 <div> 
   <a href="https://www.linkedin.com/in/nicolas-lopez-guerra" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:nicolopez17g@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/nicolopezg17" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:nicolopez17@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/_nicoscience" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 </div>
