@@ -34,3 +34,9 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql
   <a href="https://instagram.com/_nicoscience" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 </div>
+  
+ <div> 
+   
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/NicoMyshkin)
+   
+</div>
