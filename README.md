@@ -4,13 +4,11 @@
 
 ## 🔭 I'm currently working on
 
-- Data visualization and dashboarding
+- Creating kick-ass landing pages
 
 ## 🌱 I'm currently learning
 
-- MongoDB
-- R
-
+- HTML, CSS & JavaScript
 
 <div>
   <a href="https://github.com/NicoMyshkin">
@@ -31,8 +29,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql
  
 <div> 
   <a href="https://www.linkedin.com/in/nicolas-lopez-guerra" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:nicolopezg17@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/_nicoscience" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/nicoscience_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 </div>
 
