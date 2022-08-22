@@ -4,11 +4,11 @@
 
 ## 🔭 I'm currently working on
 
-- Creating kick-ass landing pages
+- TCCing and not dying in the attempt
 
 ## 🌱 I'm currently learning
 
-- HTML, CSS & JavaScript
+- APIs and Dashboarding
 
 <div>
   <a href="https://github.com/nicoscience">
