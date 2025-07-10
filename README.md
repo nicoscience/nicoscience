@@ -1,10 +1,6 @@
 ## Hey there, welcome to my profile! 👋
 
-I'm a skilled IoT Systems Specialist based in Auckland, New Zealand with 4 years of Python programming, dashboard creation, and service desk experience. Proactive, independent, and able to foster a positive team environment. Excellent communication and problem-solving skills. 
-
-I'm working at AoFrio Ltd., a New Zealand-based company that designs, manufactures, and sells electronically controlled motors, smart refrigeration controls, and IoT systems (cloud-based equipment management and digital marketing) for the commercial refrigeration industry. Its primary customers are food and beverage retail brands and refrigeration equipment manufacturers worldwide.
-
-As a person who codes and enjoys being around with so many talented individuals, I thrive in environments where I face real-life challenges that require learning a new skill in a short period of time. 
+I'm a skilled IoT Implementation Lead based in Auckland, New Zealand with 5 years of Python programming, dashboard creation, and service desk experience. Proactive, independent, and able to foster a positive team environment. Excellent communication and problem-solving skills. 
 
 Some other activities I enjoy are climbing 🧗, dancing 🕺, and learning languages 📖,
 
@@ -12,13 +8,13 @@ Some other activities I enjoy are climbing 🧗, dancing 🕺, and learning lang
 
 ## 🔭 I'm currently working on
 
-- Developing automated e-mail and WhatsApp notifications using Jenkins and Meta APIs
+- Building AI Agents 
 
 ## 🌱 I'm currently learning
 
 - Practical usages of PySpark on big data ⭐
-- DJing 🎧
-- Samba drumming 🥁
+- MCP
+- Stable diffusion
 
 <div>
   <a href="https://github.com/nicoscience">
